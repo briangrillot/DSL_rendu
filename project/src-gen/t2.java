@@ -1,0 +1,1 @@
+class t2 extends Transition{}

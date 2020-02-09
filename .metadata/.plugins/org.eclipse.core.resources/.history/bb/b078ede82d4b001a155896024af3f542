@@ -1,0 +1,7 @@
+FSM myFsm
+InitialState sI
+FinalState sF
+State sOpen, sFerme
+Transition t1 sI->sOpen
+Transition t2 sOpen->sFerme
+Transition t3 sFerme->sF

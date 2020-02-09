@@ -1,0 +1,1 @@
+class sFerme extends State{}

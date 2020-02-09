@@ -1,0 +1,1 @@
+class stateOpen extends State{}
